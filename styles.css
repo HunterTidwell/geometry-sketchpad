@@ -1,0 +1,11 @@
+body {
+	background-color: #8bb8bb;
+}
+
+body * {
+	display: block;
+}
+
+canvas {
+	border: 1px solid black;
+}
